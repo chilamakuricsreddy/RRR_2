@@ -1,0 +1,16 @@
+---
+title: "My webpage"
+author: "Chandra Chilamakuri"
+date: "2025-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+* This is my webpage created using R Markdown.
+* My name is **Chandra Chilamakuri**.
+* I am a data scientist with expertise in R programming and data analysis.
+
+
